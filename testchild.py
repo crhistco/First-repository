@@ -1,2 +1,2 @@
-## Adding a new file in the chil branch
+## Adding a new file in the child branch
 print("Inside child branch")
